@@ -38,7 +38,7 @@ Divirta-se jogando o Breakout Game! 🎮
 
 ### Capturas de Tela
 
-![Captura de Tela home](print_tela/home.png)
-![Captura de Tela game](print_tela/game.png)
-![Captura de Tela lose](print_tela/lose.png)
+![Captura de Tela home](prints_tela/home.PNG)
+![Captura de Tela game](prints_tela/game.png)
+![Captura de Tela lose](prints_tela/lose.PNG)
 
